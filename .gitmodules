@@ -1,0 +1,6 @@
+[submodule "base64alarm"]
+	path = base64alarm
+	url = https://github.com/spookyuser/base64alarm.git
+[submodule "skillsmd"]
+	path = skillsmd
+	url = https://github.com/Augusta-Lina/skillsmd.git
